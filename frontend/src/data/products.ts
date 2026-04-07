@@ -1,7 +1,6 @@
 import seeds from "../assets/images/categories/seeds.jpg";
 import fertilizer from "../assets/images/categories/fertilizer.jpg"
 import sprayer from "../assets/images/categories/sprayer.jpg"
-import smart from "../assets/images/categories/smart.jpg"
 import growth from "../assets/images/categories/growth.jpg"
 import tools from "../assets/images/categories/tools.jpg"
 
