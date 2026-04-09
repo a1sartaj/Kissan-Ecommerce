@@ -6,9 +6,9 @@ export type Blog = {
     date: string;
 };
 
-import blog1 from "../assets/images/blog/blog1.jpg";
-import blog2 from "../assets/images/blog/blog2.jpg";
-import blog3 from "../assets/images/blog/blog3.jpg";
+import blog1 from "../assets/images/blog/blog1.webp";
+import blog2 from "../assets/images/blog/blog2.webp";
+import blog3 from "../assets/images/blog/blog3.webp";
 
 export const blogs: Blog[] = [
     {

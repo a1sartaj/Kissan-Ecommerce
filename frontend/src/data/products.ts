@@ -1,8 +1,8 @@
-import seeds from "../assets/images/categories/seeds.jpg";
-import fertilizer from "../assets/images/categories/fertilizer.jpg"
-import sprayer from "../assets/images/categories/sprayer.jpg"
-import growth from "../assets/images/categories/growth.jpg"
-import tools from "../assets/images/categories/tools.jpg"
+import seeds from "../assets/images/categories/seeds.webp";
+import fertilizer from "../assets/images/categories/fertilizer.webp"
+import sprayer from "../assets/images/categories/sprayer.webp"
+import growth from "../assets/images/categories/growth.webp"
+import tools from "../assets/images/categories/tools.webp"
 
 export const products = [
     {

@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 
-import insectsImg from "../assets/images/pest/insects.jpg";
-import fungusImg from "../assets/images/pest/fungus.jpg";
-import virusImg from "../assets/images/pest/virus.jpg";
-import weedsImg from "../assets/images/pest/weeds.jpg";
-import nematodesImg from "../assets/images/pest/nematodes.jpg";
+import insectsImg from "../assets/images/pest/insects.webp";
+import fungusImg from "../assets/images/pest/fungus.webp";
+import virusImg from "../assets/images/pest/virus.webp";
+import weedsImg from "../assets/images/pest/weeds.webp";
+import nematodesImg from "../assets/images/pest/nematodes.webp";
 
 type Pest = {
     id: number;

@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
 
-import wheatImg from "../assets/images/crops/wheat.jpg";
-import riceImg from "../assets/images/crops/rice.jpg";
-import maizeImg from "../assets/images/crops/maize.jpg";
-import cottonImg from "../assets/images/crops/cotton.jpg";
-import potatoImg from "../assets/images/crops/potato.jpg";
-import tomatoImg from "../assets/images/crops/tomato.jpg";
+import wheatImg from "../assets/images/crops/wheat.webp";
+import riceImg from "../assets/images/crops/rice.webp";
+import maizeImg from "../assets/images/crops/maize.webp";
+import cottonImg from "../assets/images/crops/cotton.webp";
+import potatoImg from "../assets/images/crops/potato.webp";
+import tomatoImg from "../assets/images/crops/tomato.webp";
 
 type Crop = {
     id: number;

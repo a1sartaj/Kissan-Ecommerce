@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
-import seedsImg from "../assets/images/categories/seeds.jpg";
-import fertilizerImg from "../assets/images/categories/fertilizer.jpg";
-import sprayerImg from "../assets/images/categories/sprayer.jpg";
-import toolsImg from "../assets/images/categories/tools.jpg";
-import smartImg from "../assets/images/categories/smart.jpg";
-import growthImg from "../assets/images/categories/growth.jpg";
+import seedsImg from "../assets/images/categories/seeds.webp";
+import fertilizerImg from "../assets/images/categories/fertilizer.webp";
+import sprayerImg from "../assets/images/categories/sprayer.webp";
+import toolsImg from "../assets/images/categories/tools.webp";
+import smartImg from "../assets/images/categories/smart.webp";
+import growthImg from "../assets/images/categories/growth.webp";
 
 type Category = {
     id: number;
